@@ -15,4 +15,6 @@ My name is Bruno, A.K.A. Red Velvet, I'm a brazilian back-end developer. My alma
 [![Instagram Badge](https://img.shields.io/badge/-@brunomendesdecarvalho-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/brunomendesdecarvalho/)](https://instagram.com/brunomendesdecarvalho/)
 [![Gmail Badge](https://img.shields.io/badge/-brunomendesccb-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:brunomendesccb@gmail.com)](mailto:brunomendesccb@gmail.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomendesdecarvalho&layout=compact)](https://github.com/brunomendesdecarvalho/github-readme-stats)
+
 <img  src="https://github-readme-stats.vercel.app/api?username=brunomendesdecarvalho&show_icons=true&theme=dracula&icon_color=6392DF">
