@@ -12,6 +12,8 @@ My name is Bruno, I'm a brazilian back-end developer. My alma mater is Instituto
 
 <img  src="https://github-readme-stats.vercel.app/api?username=brunomendesdecarvalho&show_icons=true&theme=dracula&icon_color=6392DF">
 
+![Snake animation](https://github.com/brunomendesdecarvalho/brunomendesdecarvalho/blob/output/github-contribution-grid-snake.svg)
+
 ### Contact me (pages in PT-BR):
 
 [![Linkedin Badge](https://img.shields.io/badge/-brunomendesccb-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomendesccb/)](https://www.linkedin.com/in/brunomendesccb/)
