@@ -4,8 +4,8 @@
 My name is Bruno, I'm a brazilian back-end developer. My alma mater is Instituto Federal do Piaui, from Teresina, capital of Piaui state. My dream is to learn and spread knowledge through the world!
 
 - 😄 Pronouns: he/him;
-- 💻 Currently working: Java EE + Prime Faces, Django Rest Framework;
-- 🌱 Currently learning: C#, Unreal Engine and Japanese;
+- 💻 Currently working: Django Rest Framework, Pandas, SciPy, Seaborn;
+- 🌱 Currently learning: Flutter, VueJS and Japanese;
 - 💬 Languages: portuguese (mother language), english, spanish, japanese and italian (read-only).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomendesdecarvalho&layout=compact)](https://github.com/brunomendesdecarvalho/github-readme-stats)
