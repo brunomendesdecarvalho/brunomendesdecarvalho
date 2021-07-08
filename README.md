@@ -1,7 +1,7 @@
 ## Minna-san, konnichiwa! 👋
 
 ### About me:
-My name is Bruno, I'm a brazilian back-end developer. My alma mater is Instituto Federal do Piaui, from Teresina, capital of Piaui state. My dream is to learn and spread knowledge through the world!
+My name is Bruno, I'm a brazilian back-end developer. My alma mater is Instituto Federal do Piaui, from Teresina, capital of Piaui state. My dream is to learn and spread knowledge around the world!
 
 - 😄 Pronouns: he/him;
 - 💻 Currently working: Django, Pandas, SciPy, Seaborn;
