@@ -4,8 +4,8 @@
 My name is Bruno, I'm a brazilian back-end developer. My alma mater is Instituto Federal do Piaui, from Teresina, capital of Piaui state. My dream is to learn and spread knowledge around the world!
 
 - 😄 Pronouns: he/him;
-- 💻 Currently working: Django, Pandas, SciPy, Seaborn;
-- 🌱 Currently learning: Flutter, VueJS and Japanese;
+- 💻 Currently working: Flutter;
+- 🌱 Currently learning: Japanese;
 - 💬 Languages: portuguese (mother language), english, spanish, japanese and italian (read-only).
 
 ### Contact me (pages in PT-BR):
