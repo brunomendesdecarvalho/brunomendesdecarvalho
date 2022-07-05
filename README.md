@@ -5,8 +5,8 @@ My name is Bruno, I'm a brazilian back-end developer. My alma mater is Instituto
 
 - 😄 Pronouns: he/him;
 - 💻 Currently working: Flutter;
-- 🌱 Currently learning: Japanese;
-- 💬 Languages: portuguese (mother language), english, spanish, japanese and italian (read-only).
+- 🌱 Currently learning: Japanese, Data Science, Big Data, AI;
+- 💬 Languages: portuguese (mother language), english, spanish, japanese.
 
 ### Contact me (pages in PT-BR):
 
