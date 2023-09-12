@@ -1,12 +1,16 @@
-## Minna-san, konnichiwa! 👋
+👋 Hi, I'm Bruno! Hailing from Teresina, the capital of Piauí state in Brazil, I've cultivated my tech roots at the Instituto Federal do Piauí. While I shine as a Mobile Developer specializing in Flutter and Java, I'm branching out to embrace the exciting world of Data Science.
 
-### About me:
-My name is Bruno, I'm a brazilian mobile developer and studying to be a Data Scientist. My alma mater is Instituto Federal do Piaui, from Teresina, capital of Piaui state.
+🎓 Alma Mater: Instituto Federal do Piauí
+📚 Currently diving deep into: Intelligent Computing as a master's student at the Federal University of Piauí (UFPI).
+🌱 Expanding my horizons: Japanese, Big Data, and AI.
+💻 Tech Stack: Flutter, Java, Python, and a sprinkle of Data Science magic.
+💬 Languages: Portuguese (native), English, Spanish, and picking up Japanese.
+🔗 Explore more about me:
 
-- 😄 Pronouns: he/him;
-- 💻 Currently working: Flutter;
-- 🌱 Currently learning: Japanese, Data Science, Big Data, AI;
-- 💬 Languages: portuguese (mother language), english, spanish, japanese.
+Lattes: http://lattes.cnpq.br/3220904461346628
+
+😄 Pronouns: he/him
+
 
 ### Contact me (pages in PT-BR):
 
