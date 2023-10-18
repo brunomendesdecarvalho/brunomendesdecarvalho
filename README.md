@@ -8,6 +8,7 @@
 🔗 Explore more about me:
 
 Lattes: http://lattes.cnpq.br/3220904461346628
+
 Kaggle: https://www.kaggle.com/brunomendesccb/
 
 😄 Pronouns: he/him
